@@ -44,13 +44,22 @@ Other Main Author:
 [Prof. Fran&ccedil;ois Cellier](http://www.inf.ethz.ch/personal/fcellier/)
 [Dr. Stefan Fabricius](mailto:stefan.fabricius@promasim.ch)
 [Prof. Dennis L. Meadows]
+
 [Prof. Donella H. Meadows]
+
 [Dr. Jorgen Randers]
+
 [Dr. William W. Behrens III]
+
 [Dr Roger F. Naill]
+
 [Prof. Jay W. Forester]
+
 [Alexander King]
+
 [Aurelio Peccei]
+
 [Thomas Malthus]
+
 [Jesus of Nazareth]
  
