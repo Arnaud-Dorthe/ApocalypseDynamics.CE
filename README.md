@@ -41,6 +41,7 @@ it can be redistributed and/or modified under the terms of the [Modelica License
 Corresponding Author: [Arnaud Dorthe](https://about.me/arnaud.dorthe)
 
 Other Main Author:
+
 [Prof. Fran&ccedil;ois Cellier](http://www.inf.ethz.ch/personal/fcellier/)
 
 [Dr. Stefan Fabricius](mailto:stefan.fabricius@promasim.ch)
