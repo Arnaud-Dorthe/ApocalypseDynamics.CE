@@ -38,6 +38,19 @@ it can be redistributed and/or modified under the terms of the [Modelica License
 
 ## Development and contribution
 
-Corresponding Author: [Prof. Fran&ccedil;ois Cellier](http://www.inf.ethz.ch/personal/fcellier/)
+Corresponding Author: [Arnaud Dorthe](https://about.me/arnaud.dorthe)
 
-Other Main Author: [Dr. Stefan Fabricius](mailto:stefan.fabricius@promasim.ch)
+Other Main Author:
+[Prof. Fran&ccedil;ois Cellier](http://www.inf.ethz.ch/personal/fcellier/)
+[Dr. Stefan Fabricius](mailto:stefan.fabricius@promasim.ch)
+[Prof. Dennis L. Meadows]
+[Prof. Donella H. Meadows]
+[Dr. Jorgen Randers]
+[Dr. William W. Behrens III]
+[Dr Roger F. Naill]
+[Prof. Jay W. Forester]
+[Alexander King]
+[Aurelio Peccei]
+[Thomas Malthus]
+[Jesus of Nazareth]
+ 
