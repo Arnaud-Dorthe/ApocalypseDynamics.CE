@@ -42,24 +42,22 @@ Corresponding Author: [Arnaud Dorthe](https://about.me/arnaud.dorthe)
 
 Other Main Author:
 [Prof. Fran&ccedil;ois Cellier](http://www.inf.ethz.ch/personal/fcellier/)
+
 [Dr. Stefan Fabricius](mailto:stefan.fabricius@promasim.ch)
-[Prof. Dennis L. Meadows]
 
-[Prof. Donella H. Meadows]
+[Prof. Dennis L. Meadows](https://en.wikipedia.org/wiki/Dennis_Meadows)
 
-[Dr. Jorgen Randers]
+[Prof. Donella H. Meadows](http://donellameadows.org/)
 
-[Dr. William W. Behrens III]
+[Dr. Jorgen Randers](https://en.wikipedia.org/wiki/J%C3%B8rgen_Randers) 
+[Dr. William W. Behrens III](https://en.wikipedia.org/wiki/William_W._Behrens_III) 
+[Dr Roger F. Naill](https://en.wikipedia.org/wiki/Roger_F._Naill) 
+[Prof. Jay W. Forester](https://en.wikipedia.org/wiki/Jay_Wright_Forrester) 
+[Alexander King](https://en.wikipedia.org/wiki/Alexander_King_(scientist)) 
 
-[Dr Roger F. Naill]
+[Aurelio Peccei](https://en.wikipedia.org/wiki/Aurelio_Peccei)
 
-[Prof. Jay W. Forester]
+[Thomas Malthus](https://en.wikipedia.org/wiki/Thomas_Robert_Malthus)
 
-[Alexander King]
-
-[Aurelio Peccei]
-
-[Thomas Malthus]
-
-[Jesus of Nazareth]
+[Jesus of Nazareth](https://www.biblegateway.com/passage/?search=Revelation+1&version=NLV)
  
