@@ -50,9 +50,13 @@ Other Main Author:
 [Prof. Donella H. Meadows](http://donellameadows.org/)
 
 [Dr. Jorgen Randers](https://en.wikipedia.org/wiki/J%C3%B8rgen_Randers) 
+
 [Dr. William W. Behrens III](https://en.wikipedia.org/wiki/William_W._Behrens_III) 
+
 [Dr Roger F. Naill](https://en.wikipedia.org/wiki/Roger_F._Naill) 
+
 [Prof. Jay W. Forester](https://en.wikipedia.org/wiki/Jay_Wright_Forrester) 
+
 [Alexander King](https://en.wikipedia.org/wiki/Alexander_King_(scientist)) 
 
 [Aurelio Peccei](https://en.wikipedia.org/wiki/Aurelio_Peccei)
