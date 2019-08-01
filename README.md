@@ -1,5 +1,5 @@
 # Apocalypse Dynamics
-Free library for modeling according to the principles of system dynamics of J. Forrester.
+Free library for modeling the coming Apocalypse according to the principles of system dynamics of J. Forrester.
 
 ## Library description
 
