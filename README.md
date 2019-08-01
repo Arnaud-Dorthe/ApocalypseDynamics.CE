@@ -3,7 +3,7 @@ Free library for modeling the coming Apocalypse according to the principles of s
 
 ## Library description
 
-The Apocalypse-Dynamics library allows to model according to the principles of system dynamics originated by J.W. Forrester in the 1960's. The field of system dynamics is well established, hence, the novelty and value of this library is not to be seen in the modeling principles of system dynamics themselves, rather, in the combination of system dynamics modeling with the Apocalypse predicament.
+The ApocalypseDynamics library allows to model according to the principles of system dynamics originated by J.W. Forrester in the 1960's. The field of system dynamics is well established, hence, the novelty and value of this library is not to be seen in the modeling principles of system dynamics themselves, rather, in the combination of system dynamics modeling with the Apocalypse predicament.
 
 The Apocalypse-Dynamics library takes advantage of the vast object-oriented, multi-formalism, physical modeling capabilities of Modelica.
 
