@@ -5,7 +5,7 @@ Free library for modeling the coming Apocalypse according to the principles of s
 
 The ApocalypseDynamics library allows to model according to the principles of system dynamics originated by J.W. Forrester in the 1960's. The field of system dynamics is well established, hence, the novelty and value of this library is not to be seen in the modeling principles of system dynamics themselves, rather, in the combination of system dynamics modeling with the Apocalypse predicament.
 
-The Apocalypse-Dynamics library takes advantage of the vast object-oriented, multi-formalism, physical modeling capabilities of Modelica.
+The ApocalypseDynamics library takes advantage of the vast object-oriented, multi-formalism, physical modeling capabilities of Modelica.
 
 System dynamics is widespread mainly in economics, management, biology and environmental areas. The SystemDynamics Modelica library paves the way for integrated treatment of socio-technical systems, having both continuous-time and discrete-event aspects. In addition, it is thought valuable to be able to use the System Dynamics modeling concept, which supports the "top-down" modeling approach, together with the inherent "bottom-up" approach of physical object-oriented modeling.
 
