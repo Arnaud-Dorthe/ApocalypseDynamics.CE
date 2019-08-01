@@ -25,7 +25,7 @@ Download [SystemDynamics v2.1 (2013-10-16)](../../archive/v2.1.zip)
  * [Version v2024]
  `ApocalypseDynamics 2024` is based on ApocalypseDynamics version 2023. It has been primarily updated in order to update the "world 2023" model with a new set of data regarding the Paris agreement global limits on CO2 emissions.
  * [Version v2023]
-    `ApocalypseDynamics 2023` is based on ApocalypseDynamics version 2022. It has been primarily updated in order to update the "world 2021" model with a new set of data regarding the biodiversity loss and its negative impact on food production, industrial production, population growth.
+    `ApocalypseDynamics 2023` is based on ApocalypseDynamics version 2022. It has been primarily updated in order to update the "world 2022" model with a new set of data regarding the biodiversity loss and its negative impact on food production, industrial production, population growth.
 * [Version v2022]
    `ApocalypseDynamics 2022` is based on ApocalypseDynamics version 2021. It has been primarily updated in order to update the "world 2021" model with a new set of data regarding the greenhouse gaz pollution and the climate change's negative impact on food production, industrial production, population growth.
 * [Version v2021]
