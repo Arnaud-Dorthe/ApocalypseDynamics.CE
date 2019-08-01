@@ -16,10 +16,18 @@ The documentation is included in the source code package.
 Download [SystemDynamics v2.1 (2013-10-16)](../../archive/v2.1.zip)
 
 #### Release notes
-* [Version v2023]
- `ApocalypseDynamics 2023` is based on ApocalypseDynamics version 2022. It has been primarily updated in order to update the world 2021 model with a new scenario. This is the optimal scenario for a sustainable future. The ultimate scenario.
+* [Version v2027]
+ `ApocalypseDynamics 2027` is based on ApocalypseDynamics version 2026. It has been primarily updated in order to split the "world 2026" model on a country basis.
+* [Version v2026]
+ `ApocalypseDynamics 2026` is based on ApocalypseDynamics version 2025. It has been primarily updated in order to update the "world 2025" model with a new scenario. This is the optimal scenario for a sustainable future. The ultimate scenario.
+ * [Version v2025]
+ `ApocalypseDynamics 2025` is based on ApocalypseDynamics version 2024. It has been primarily updated in order to update the "world 2024" model taking into account the Sustainable Development Goals' target scenariis from the United Nations organization.
+ * [Version v2024]
+ `ApocalypseDynamics 2024` is based on ApocalypseDynamics version 2023. It has been primarily updated in order to update the "world 2023" model with a new set of data regarding the Paris agreement global limits on CO2 emissions.
+ * [Version v2023]
+    `ApocalypseDynamics 2023` is based on ApocalypseDynamics version 2022. It has been primarily updated in order to update the "world 2021" model with a new set of data regarding the biodiversity loss and its negative impact on food production, industrial production, population growth.
 * [Version v2022]
-   `ApocalypseDynamics 2022` is based on ApocalypseDynamics version 2021. It has been primarily updated in order to update the "world 2021" model with a new set of data regarding the greenhouse gaz pollution and the climate change's negative feedback on food production, industrial production, population growth.
+   `ApocalypseDynamics 2022` is based on ApocalypseDynamics version 2021. It has been primarily updated in order to update the "world 2021" model with a new set of data regarding the greenhouse gaz pollution and the climate change's negative impact on food production, industrial production, population growth.
 * [Version v2021]
    `ApocalypseDynamics 2021` is based on ApocalypseDynamics version 2020. It has been primarily updated in order to update the "world 2020" model with a new set of data regarding energy production, fossil fuel stocks, renewable energies supply
 * [Version v2020]
