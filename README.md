@@ -19,7 +19,7 @@ Download [SystemDynamics v2.1 (2013-10-16)](../../archive/v2.1.zip)
 * [Version v2027]
  `ApocalypseDynamics 2027` is based on ApocalypseDynamics version 2026. It has been primarily updated in order to split the "world 2026" model on a country basis.
 * [Version v2026]
- `ApocalypseDynamics 2026` is based on ApocalypseDynamics version 2025. It has been primarily updated in order to update the "world 2025" model with a new scenario. This is the optimal scenario for a sustainable future. The ultimate scenario.
+ `ApocalypseDynamics 2026` is based on ApocalypseDynamics version 2025. It has been primarily updated in order to update the "world 2025" model with a new scenario. This is the optimal scenario for a sustainable future. This is the ultimate scenario before World War III.
  * [Version v2025]
  `ApocalypseDynamics 2025` is based on ApocalypseDynamics version 2024. It has been primarily updated in order to update the "world 2024" model taking into account the Sustainable Development Goals' target scenariis from the United Nations organization.
  * [Version v2024]
