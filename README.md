@@ -60,7 +60,7 @@ Other Main Author:
 
 [Dr. Jorgen Randers](https://en.wikipedia.org/wiki/J%C3%B8rgen_Randers) 
 
-[Dr. William W. Behrens III](https://en.wikipedia.org/wiki/William_W._Behrens_III) 
+[Dr. William W. Behrens III](https://www.revisionenergy.com/staff/william-behrens-phd/) 
 
 [Dr Roger F. Naill](https://en.wikipedia.org/wiki/Roger_F._Naill) 
 
