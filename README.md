@@ -1,12 +1,12 @@
 # Apocalypse Dynamics
-This is an updated version of the [world models serie](https://en.wikipedia.org/wiki/World3) created by a MIT group of researchers.
+This is an updated version of the [world models serie](https://en.wikipedia.org/wiki/World3) created by a [MIT](http://web.mit.edu/) group of researchers.
 
 ## Library description
-Using a methodology developed by pioneering systems-scientist [Jay Forrester](https://en.wikipedia.org/wiki/Jay_Wright_Forrester), and under the supervision of [Dennis Meadows](https://en.wikipedia.org/wiki/Dennis_Meadows) , a group of researchers at the Massachusetts Institute of Technology produced the first Report to the [Club of Rome](https://www.clubofrome.org). Considered a classic in the [sustainability](https://en.wikipedia.org/wiki/Sustainability) movement, "[The Limits to Growth](http://www.donellameadows.org/wp-content/userfiles/Limits-to-Growth-digital-scan-version.pdf)" was the first study to question the viability of continued growth in the human [ecological footprint](https://www.footprintcalculator.org/).
+Using a methodology developed by pioneering systems-scientist [Jay Forrester](https://en.wikipedia.org/wiki/Jay_Wright_Forrester), and under the supervision of [Dennis Meadows](https://en.wikipedia.org/wiki/Dennis_Meadows) , a group of researchers at the [Massachusetts Institute of Technology](http://web.mit.edu/) produced the first Report to the [Club of Rome](https://www.clubofrome.org). Considered a classic in the [sustainability](https://en.wikipedia.org/wiki/Sustainability) movement, "[The Limits to Growth](http://www.donellameadows.org/wp-content/userfiles/Limits-to-Growth-digital-scan-version.pdf)" was the first study to question the viability of continued growth in the [human ecological footprint](https://www.footprintcalculator.org/).
 
 The ApocalypseDynamics library allows to model according to the principles of [system dynamics](https://en.wikipedia.org/wiki/System_dynamics) originated by J.W. Forrester in the 1960's. The field of system dynamics is well established, hence, the novelty and value of this library is not to be seen in the modeling principles of system dynamics themselves, rather, in the combination of system dynamics modeling with the [Apocalypse](https://www.biblegateway.com/passage/?search=Revelation+1&version=NLV) predicament. 
 
-Modelica has [object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming), multi-formalism and [physical modeling](https://en.wikipedia.org/wiki/Physical_model) capabilities. 
+[Modelica](https://www.modelica.org/) has [object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming), multi-formalism and [physical modeling](https://en.wikipedia.org/wiki/Physical_model) capabilities. 
 The ApocalypseDynamics library takes advantage of the vast cloud-based software development potential.
 
 The documentation is included in the source code package.
