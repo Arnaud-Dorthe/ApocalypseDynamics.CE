@@ -1,5 +1,5 @@
 # Apocalypse Dynamics
-This is an updated version of the "World 3" model created by a MIT group of researchers.
+This is an updated version of the world models serie created by a MIT group of researchers.
 
 ## Library description
 Using a methodology developed by pioneering systems-scientist Jay Forrester, and under the supervision of Dennis Meadows, a group of researchers at the Massachusetts Institute of Technology produced the first Report to the Club of Rome. Considered a classic in the sustainability movement, "The Limits to Growth" was the first study to question the viability of continued growth in the human ecological footprint.
