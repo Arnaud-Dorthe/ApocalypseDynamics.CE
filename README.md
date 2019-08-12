@@ -1,4 +1,5 @@
 # Apocalypse Dynamics
+Free library for modeling the Apocalypse according to the world model of the "Limits to growth".
 This is an updated version of the [world models serie](https://en.wikipedia.org/wiki/World3) created by a [MIT](http://web.mit.edu/) group of researchers.
 
 ## Library description
