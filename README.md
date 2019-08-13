@@ -8,7 +8,7 @@ Using a methodology developed by pioneering [systems-scientist](https://en.wikip
 The ApocalypseDynamics library permits users to model a sustainable future according to the principles of [system dynamics](https://en.wikipedia.org/wiki/System_dynamics) originated by J.W. Forrester in the 1960's. The field of system dynamics is well established, hence, the novelty and value of this library is not to be seen in the modeling principles of system dynamics themselves, rather, in the combination of system dynamics modeling with the [Apocalypse](https://www.biblegateway.com/passage/?search=Revelation+1&version=NLV) predicament. 
 
 [Modelica](https://www.modelica.org/) has [object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming), multi-formalism and [physical modeling](https://en.wikipedia.org/wiki/Physical_model) capabilities. 
-The ApocalypseDynamics library takes advantage of the vast cloud-based software development potential.
+The ApocalypseDynamics library will benefit of the collaborative development of new features and back-tests of the models.
 
 The documentation is included in the source code package.
 
