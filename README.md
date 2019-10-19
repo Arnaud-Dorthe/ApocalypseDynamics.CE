@@ -1,79 +1,26 @@
-# Apocalypse Dynamics
-Free library for simulating the Apocalypse according to the world model of the "Limits to growth".
-This is an updated version of the [world models serie](https://en.wikipedia.org/wiki/World3) created by a [MIT](http://web.mit.edu/) group of researchers.
 
-## Library description
-Using a methodology developed by pioneering [systems-scientist](https://en.wikipedia.org/wiki/Systems_science) [Jay Forrester](https://en.wikipedia.org/wiki/Jay_Wright_Forrester), and under the supervision of [Dennis Meadows](https://en.wikipedia.org/wiki/Dennis_Meadows) , a group of researchers at the [Massachusetts Institute of Technology](http://web.mit.edu/) produced the first Report to the [Club of Rome](https://www.clubofrome.org). Considered a classic in the [sustainability](https://en.wikipedia.org/wiki/Sustainability) movement, "[The Limits to Growth](http://www.donellameadows.org/wp-content/userfiles/Limits-to-Growth-digital-scan-version.pdf)" was the first study to question the viability of continued growth in the [human ecological footprint](https://www.footprintcalculator.org/).
+This is a short installation and simulation guide to the Apocalypse Dynamics model.
 
-The ApocalypseDynamics library permits users to model a sustainable future according to the principles of [system dynamics](https://en.wikipedia.org/wiki/System_dynamics) originated by J.W. Forrester in the 1960's. The field of system dynamics is well established, hence, the novelty and value of this library is not to be seen in the modeling principles of system dynamics themselves, rather, in the combination of system dynamics modeling with the [Apocalypse](https://www.biblegateway.com/passage/?search=Revelation+1&version=NLV) predicament. 
+To know more about the Apocalypse Dynamics, have a look to the [Github Wiki tab](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/wiki).
+To know more about the projects roadmap and progress reports, click on the [Github Projects tab](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/projects), and select a project.
 
-[Modelica](https://www.modelica.org/) has [object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming), multi-formalism and [physical modeling](https://en.wikipedia.org/wiki/Physical_model) capabilities. 
-The ApocalypseDynamics library will benefit of the collaborative development of new features and back-tests of the models.
+First of all, [download the OpenModelica version for your favorite operating system](https://www.openmodelica.org/download/download-linux).
 
-The documentation is included in the source code package.
+Then download the Apocalypse Dynamics package, either by [direct download](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/archive/master.zip) if you are a novice, or [through Git](https://github.com/Arnaud-Dorthe/ApocalypseDynamics.git) if you are an advanced user. If you are nor a novice nor a advanced user, but a average user who'd like to get his chance on Git, you may find helpful the [github-git-cheat-sheet.pdf](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/blob/master/github-git-cheat-sheet.pdf) in the root directory.
 
-## Current release
+Having said that, start OpenModelica connection editor (OMEdit). 
+In the File menu, open the Apocalypse dynamics package you have been downloading. 
 
-Download [SystemDynamics v2.1 (2013-10-16)](../../archive/v2.1.zip)
+Then select WorldDynamics, World3 and one of the scenarios, e.g. Scenario 2. 
+Click on the right‐arrow (‐>) simulate button (top row) to simulate. 
+To also simulate some other scenario, click on that one and click the simulate button.
 
-#### Release notes
-* [Version v2027]
- `ApocalypseDynamics 2027` is based on ApocalypseDynamics version 2026. It has been primarily updated in order to split the "world 2026" model on a country basis.
-* [Version v2026]
- `ApocalypseDynamics 2026` is based on ApocalypseDynamics version 2025. It has been primarily updated in order to update the "world 2025" model with a new scenario. This is the optimal scenario for a sustainable future. This is the ultimate scenario before World War III.
- * [Version v2025]
- `ApocalypseDynamics 2025` is based on ApocalypseDynamics version 2024. It has been primarily updated in order to update the "world 2024" model taking into account the Sustainable Development Goals' target scenariis from the United Nations organization.
- * [Version v2024]
- `ApocalypseDynamics 2024` is based on ApocalypseDynamics version 2023. It has been primarily updated in order to update the "world 2023" model with a new set of data regarding the Paris agreement global limits on CO2 emissions.
- * [Version v2023]
-    `ApocalypseDynamics 2023` is based on ApocalypseDynamics version 2022. It has been primarily updated in order to update the "world 2022" model with a new set of data regarding the biodiversity loss and its negative impact on food production, industrial production, population growth.
-* [Version v2022]
-   `ApocalypseDynamics 2022` is based on ApocalypseDynamics version 2021. It has been primarily updated in order to update the "world 2021" model with a new set of data regarding the greenhouse gaz pollution and the climate change's negative impact on food production, industrial production, population growth.
-* [Version v2021]
-   `ApocalypseDynamics 2021` is based on ApocalypseDynamics version 2020. It has been primarily updated in order to update the "world 2020" model with a new set of data regarding energy production, fossil fuel stocks, renewable energies supply
-* [Version v2020]
-   `ApocalypseDynamics 2020` is based on SystemDynamics Version 2.1. It has been primarily updated in order to update the "world 3" scenariis of the limit to growth with the latest 2010s data on global population, natural ressources stocks, food supply, industrial production, economic development, pollution.
-* [Version v2.1 (2013-10-16)](../../archive/v2.1.zip)
-  * `SystemDynamics 2.1` is based on SystemDynamics Version 2.0 that was developed by Prof. Cellier and his students, and has been primarily updated in order for it to work with MSL 3.2.1. The diagrams have been corrected from the old graphical definitions and some icons have been added.
-* [Version v2.0 (2007-09-13)](../../archive/v2.0.zip)
-  * `SystemDynamics 2.0` constitutes a completely reworked release of the SystemDynamics library. This version is based in part on Version 1.0, and in part on a different and independently created version of a System Dynamics library for Dymola/Modelica, a version that had been developed by Prof. Cellier and his students at the University of Arizona, and had been around in a much reduced form since 2001.
-* Version v1.0 (2002-04-09)
-  * `SystemDynamics 1.0` constituted the first official release of the SystemDynamics library. That version was created by Stefan Fabricius in 2002, at a time when Stefan worked as a Ph.D. student at ETH Zurich.
+![simulate](https://lh3.googleusercontent.com/_0cFEs7shRmJcNZUC9g6pAIf1rwS46kvnp9E8_M2WWfeuKcPo6dfZ_QbSC5e14wQZPpzI0YWwv07e7kamcRA-VUZ10Bvg5JC3-UzunWKoM0KImehllHfIB89W6qGkWN5cWvjTThfOTjgmSrb9fRPwFH69rtgoPUbHaNaZ18bOK1QzQJX-BenBieKRcfFsGibiLOQr4paTa3hF5ozuZ-fiX9UrYz35B2PYnvdS2PX4I0n8Ca5v8X1x2oZDdrjLTptvLo6Deynas5deeDcuj0QvpEe5WXSft9bpDfOOWoBFEufq9xctgOnmWr1kuS1vxY0oTiqXtgxWnEsC_mFZyIh5dM1Jx-H8_D3sDIrh-NpgWvABxXLeotaWMny3Px79jdonYRMd6xxN69A8PSVZQ5Z20mrpO93Pj3LKawI6QoiwcKPEWm3fsKeoLGCbnTBZuZm1AX8YxDOpKhJfrCrVs4ML59HdOd5mUqqt4xrYMOh7o_EkEWEoCyVfGoSLZn-1zfShR3MMC4DOqJm7_QJeZkYnjpM8bDBfuGrZl0W4pe563wvkTtZoktnBfpET4d6icSoFDZxLkWgVBcONJw5fR3cbptKQmzsZeO4qIeqq11UTz0lBmJ8W-9sqy6y1dh-3-yG75xyPOZjxX4sCOkc79qbpnKjI6G5jtZSUpYaP6W5u67w-TI_xMqy0ROdhAKZx7xp4ijVIKdhZyUIcOASW1xmJZYCSRoiKfZyIZFuIV_idFcfZnQO=w1043-h648-no)
 
-## License
+To plot, click on one or more of the variables in the right window. You can search for population by typing popul You can simulate several scenarios and plot one or more variable from each simulation in the same diagram. Below from Scenario1, Scenario2, Scenario3.
 
-This Modelica package is free software and the use is completely at your own risk;
-it can be redistributed and/or modified under the terms of the [Modelica License 1.1](SystemDynamics 2.1/Resources/ModelicaLicense1.1.txt).
+![Scenario1, Scenario2, Scenario3](https://lh3.googleusercontent.com/GgD9-oGZZAHec0dcB3Ui1MercWs9d77NMbBoso6Hq42AaSz7yazHPxKV9uUUDN2BgnNmnUImlPf-D3gybCgwo6bZpzCcqHH83hVHY1IgEkI6zd3KbFtW1Db1BgMrBesnoesG4djuyod_OCaWX5DQu0Gc6cEGHFyyayb2nvqVG5FyxbKSVppQF1UYTLZnHs-M284eJ3DfxWDaw7dilS9fJsmVjviZG8ZYboqfcnO8cTIh8A6VDyUzoWFUsrcob7PXSufaVhco0qEjsuHEbKsILyrpoSLYe4qcmORyFtvlgkLnqKVLGD3cokxgQZ6h-yOUvpu2jZ6GpjtQC0WxBmxSGREiiABssmzLAOPQBSUvldEuWWNPxYHwXILW_t86ZEqDfD5xXnymxRRqMM9RibAboTRkmNbnabzbHzoKxl_eVvNcPFF5m1V-HObTZSL6oCT1p5S3f8mtdetxGpEFpfOXPtd2YSNwSKiWBqFKGFNPZGLeSZIPtloJs85MkScszeBC4bxXUxJ6-qc_zUjEUp2op6i33wyGNPFbNWb7OnLsOwIKasld-HCyyzybGC_9LasGnhyHz7jvDgolSvRY_SDu13eY4Yq0Q2fHipwgWGRc9ID2Ue-JkTIcdWMEWOuAe_l4tDvboQP0W3CumFk7i9O2subWTY28GRX8G8HsPm9G0oGUDxHnLmmp77kuHlzFXuRLV6W94Vgtv5uY_KaDMCDclTBmZdUkpRBq_vJELeYIz2kpSQ76=w1055-h660-no)
 
-## Development and contribution
+This plot is from from Scenario2, Scenario3, and Scenario6. The green one ("green growth") was the only sustainable-one as of 2004, that is to say without collapse.
 
-Corresponding Author: [Arnaud Dorthe](https://about.me/arnaud.dorthe)
-
-Other Main Author:
-
-[Prof. Fran&ccedil;ois Cellier](http://www.inf.ethz.ch/personal/fcellier/)
-
-[Dr. Stefan Fabricius](mailto:stefan.fabricius@promasim.ch)
-
-[Prof. Dennis L. Meadows](https://en.wikipedia.org/wiki/Dennis_Meadows)
-
-[Prof. Donella H. Meadows](http://donellameadows.org/)
-
-[Dr. Jorgen Randers](https://en.wikipedia.org/wiki/J%C3%B8rgen_Randers) 
-
-[Dr. William W. Behrens III](https://www.revisionenergy.com/staff/william-behrens-phd/) 
-
-[Dr Roger F. Naill](https://en.wikipedia.org/wiki/Roger_F._Naill) 
-
-[Prof. Jay W. Forester](https://en.wikipedia.org/wiki/Jay_Wright_Forrester) 
-
-[Alexander King](https://en.wikipedia.org/wiki/Alexander_King_(scientist)) 
-
-[Aurelio Peccei](https://en.wikipedia.org/wiki/Aurelio_Peccei)
-
-[Thomas Malthus](https://en.wikipedia.org/wiki/Thomas_Robert_Malthus)
-
-[Jesus of Nazareth](https://www.biblegateway.com/passage/?search=Revelation+1&version=NLV)
-
-[The Mayas](https://en.wikipedia.org/wiki/Maya_calendar)
- 
+![Previous sustainable scenario](https://lh3.googleusercontent.com/uTHGxPRWP6rfeiEr2XdO0vQ6b7Las47OzcF0KOUEYHtDRi_yIfwOigHRzITAlhIzcbRhGa9jkz4j6D_HSu9pbtD8OjXVkFNlx6KEkeS51cmvT8KZsjH_GETCGazP3egReafa4ov_dKyz8Q4NRnJHgrSBfOs5pGws4CSf3R4cyWDpre9aM_Bv0jAOgPjn7DVdvFwQ6eiNK9p5rlYCleqIpO9a1Se1WU48ZOG8UagzhDRfYmuBQUPRRYo0XQrZsbu9Ng5-yExaialsGbM2ytb8xKXcHGXqGzTga8YOdfGr0dzX0ur4IQXWtF988QI3EAgQR1SfdCRamzA4LlDYUFGVjTNdkfLxvb8Da1k7WMRDpUBeD1GFy1JOyBLDcyc3swqf2SUPKg3AG9JHjBPOYHMaL69A7Iuo-vOlGgDDNW6fhzcO30CneUA4jVEKcGLZgqJhMTxuYlKiNGKGRMTv7sXDionbQ3yUQCPCAXSCOUxxClar2PfyRXveQqMNRMTGH9wsSVComxZqdcoFO38SxqS8lWliZc8PqybVhK-t5_jZ37Ux8pQWJu9nk_kJL9hx7QG75IShjpB7i-GoD5LYYjnqvvKVLa1xVomg20QM6INZPpl4SYP1aM0ay0yt82EImYw-5IbeMj3Rj6KlqLewdafS3c-EXeQd9OYideKUPEXxm-p-8_49UW-i5UFRiCg-YVaBnaaViK9oxn68t046l0ik5oFzYxAUG2oV9t5V1qcfSKYG8F4u=w1077-h671-no)
