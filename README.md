@@ -21,6 +21,6 @@ To plot, click on one or more of the variables in the right window. You can sear
 
 ![Scenario1, Scenario2, Scenario3](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/blob/master/UsersGuide/GitHub%20Images/Scenario1%2C%20Scenario2%2C%20Scenario3%20population.png)
 
-This plot is from from Scenario2, Scenario3, and Scenario6. The green one ("green growth") was the only sustainable-one as of 2004, that is to say without collapse.
+This plot is from from Scenario2, Scenario3, and Scenario6. The green one ("green growth") was the only sustainable-one, that is to say without collapse, as of 2004.
 
 ![Previous sustainable scenario](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/blob/master/UsersGuide/GitHub%20Images/Scenario2%2C%20Scenario3%2C%20Scenario6%20population.png)
