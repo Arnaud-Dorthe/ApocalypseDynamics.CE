@@ -4,9 +4,9 @@ This is a short installation and simulation guide to the Apocalypse Dynamics mod
 To know more about the Apocalypse Dynamics, have a look to the [Github Wiki tab](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/wiki).
 To know more about the projects roadmap and progress reports, click on the [Github Projects tab](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/projects), and select a project.
 
-[Download the OpenModelica version of your favorite operating system](https://www.openmodelica.org/download/download-linux).
+First [Download the OpenModelica version for your favorite operating system](https://www.openmodelica.org/download/download-linux).
 
-Download the Apocalypse Dynamics package, either by direct download if you are a novice, or through Git if you are an advanced user. If you are nor a novice nor a advanced user, but a average user who'd like to get his chance with Git, you may find helpful the [github-git-cheat-sheet.pdf](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/blob/master/github-git-cheat-sheet.pdf) in the root directory.
+Then download the Apocalypse Dynamics package, either by direct download if you are a novice, or through Git if you are an advanced user. If you are nor a novice nor a advanced user, but a average user who'd like to get his chance with Git, you may find helpful the [github-git-cheat-sheet.pdf](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/blob/master/github-git-cheat-sheet.pdf) in the root directory.
 
 Having said that, start OpenModelica connection editor (OMEdit). 
 In the File menu, open the Apocalypse dynamics package you have been downloading. 
