@@ -1,19 +1,19 @@
 
-Short introduction to simulating ApocalypseDynamics with OpenModelica.
+This is a short installation and simulation guide to the Apocalypse Dynamics model.
 
-The best reference to World3 is the very well written and very easy to read book: "[Limits to Growth: The 30‐Year Update](https://www.goodreads.com/book/show/705418.The_Limits_to_Growth?ac=1&from_search=true)".
+To know more about the Apocalypse Dynamics, have a look to the ![Github Wiki tab](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/wiki).
+To know more about the projects roadmap and progress reports, click on the ![Github Projects tab](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/projects), and select a project.
 
-Authors: Meadows Donella, Jorgen Randers and Denis Meadows. 368p. Chelsea Green, 2004.
+![Download the OpenModelica version of your favorite operating system] (https://www.openmodelica.org/download/download-linux).
 
-Visit www.openmodelica.org to download the Linux version with system dynamics:
+Download the Apocalypse Dynamics package, either by direct download if you are a novice, or through Git if you are an advanced user. If you are nor a novice nor a advanced user, but a average user who'd like to get his chance with Git, you may find helpful the ![github-git-cheat-sheet.pdf] (https://github.com/Arnaud-Dorthe/ApocalypseDynamics/blob/master/github-git-cheat-sheet.pdf) in the root directory.
 
-![OpenModelica](https://lh3.googleusercontent.com/FF0GJLWDGlQgdPU600xjvPbmGZnSX2RO66LHkHF0Xwnlhd3qYXxDaYkKlmqENuKyD_t7N3l6Sxnx2C0Rgk7rcRLajz6i-Z-52J5Z2RKGq5fbe7qtNwCE8_c4T82QWetsDD0_wMOfFBdEjR23je00h1IBijZnMS3BGHfEXUMkg_QuvoDwaSoCNWeKN0PdPQqbOdj69J56mTlpggZM5KEIJidV6AIod7h0D9zmXn6VNQgqBxTAwZrXkBGepUNFYbLT-7bXscggnSSqSNsajFJX2ZR9RwblTJLBReaRCvxrqMQG0ytSX8Zjtu8b19o5H3ZGrF_BlcgLicxxUbPWTiExaVmRiIFAldQl2pz_vTNpEhoaDP7n5RT8uQoahhY3vNEMrZzb9uWJYvQwx-Ok8ep7Rxaf2nbd2M6691ludITdu-SKSVEogcm7R9tydKVN0GbtPxlFA2fS5SBkHa4jnhgmeuFXEp48AWFM9B3HvzNguy6Tho6rEdXYWiIvu2_ci-sYSV8pcRL85EKI39kCyuBCk82lD11w3JrKlHCKNdLEofyYg-RvIRS_mywP-qWUJtE5iAUuMo_uBfM4wPxGcFv1rKotTxdssfuaMErGOvpUTBvSdYdvykTJLjCjnpSZ9d4xDN4VQOKfYF1WswlCaCr8mi8KIpUnm9j3O-Xvhy6qyZ3Skqp1dt-0YMV52kuWE45cVqyw-VNmOjirVjEbMdE07CCpQIWRRVttpW4Ioc9a2agww9tD=w695-h508-no)
+Having said that, start OpenModelica connection editor (OMEdit). 
+In the File menu, open the Apocalypse dynamics package you have been downloading. 
 
-Start OpenModelica connection editor (OMEdit). In the File pulldown menu select System Libraries. Select the SystemDynamics library among the system libraries (far down in the list):
-
-![SystemDynamics library](https://lh3.googleusercontent.com/xZ1qobv9Q5M2-Jhti5r_0uqZwK6sznT19Rs_qmrsLJTEknPBUbZWQBthyc9DPnqJYwi4fgnBmQgJS2Uei-EGnXAF9aZVyu8v9Opy1IdzQAEAGLt17N3w-C_qkHr0Dqfk7pVIPs_iZ8yC0cJgPPMUp3_qqj6gBRJFSSTKRUdydX6cBrcfymizxuyG06ITqTmTn6q4DXhK-t0xpvXN17Q6d8W-waVfG6f9yrePN574LBY9-0M5DYkmk3lgINdbee6ensu2Xbzn9o5pUvIHwULLxGKm-XWkJ6J3RSa3ieKvNlqdm8yNvufqh5du1kFMXKnnrggklhL2L3fC83dFcUN-Z0eX4_l8Mxn2TiYhuMO1p3TOfiVICRBgFgu74B17GyTplhpITLfwXSP9oCMTxUgDJ6Q2O2indY4WSBk6tF5W83Tvarq0vJp4AkD0AnjVJOtBj-O1GAvSuV2vXQ5wtWXLXsBTmYl9mqGO4-kyaaaSey3PiBSvlLjN00IfodnCjOw1lnhboOnN4YlkAkxDjjJDQdBU5z7ez78c7JRyTjapnzaV7ksorqyZI_4b9kSyr9842XAuUTuAQ0Hesylx2tLXK16sEZPLKed3oIEU8dUpFL6uHZO3WMjXhXTWCmfC-bm0jUyqcQYF7Mb7N63OCxgADZrQ2NoBM3wDuOJyFSjm_XdMT8L9pmetrbdezNKjPsUas5UwzY4LDii1bXAH1Lt8_OnXs7BODMntRUAQ8cdZYHXjhKmI=w666-h593-no)
-
-Select WorldDynamics, World3 and one of the scenarios, e.g., Scenario2. Click on the right‐arrow (‐>) simulate button (top row) to simulate. To also simulate some other scenario, click on that one and click the simulate button.
+Then select WorldDynamics, World3 and one of the scenarios, e.g. Scenario 2. 
+Click on the right‐arrow (‐>) simulate button (top row) to simulate. 
+To also simulate some other scenario, click on that one and click the simulate button.
 
 ![simulate](https://lh3.googleusercontent.com/_0cFEs7shRmJcNZUC9g6pAIf1rwS46kvnp9E8_M2WWfeuKcPo6dfZ_QbSC5e14wQZPpzI0YWwv07e7kamcRA-VUZ10Bvg5JC3-UzunWKoM0KImehllHfIB89W6qGkWN5cWvjTThfOTjgmSrb9fRPwFH69rtgoPUbHaNaZ18bOK1QzQJX-BenBieKRcfFsGibiLOQr4paTa3hF5ozuZ-fiX9UrYz35B2PYnvdS2PX4I0n8Ca5v8X1x2oZDdrjLTptvLo6Deynas5deeDcuj0QvpEe5WXSft9bpDfOOWoBFEufq9xctgOnmWr1kuS1vxY0oTiqXtgxWnEsC_mFZyIh5dM1Jx-H8_D3sDIrh-NpgWvABxXLeotaWMny3Px79jdonYRMd6xxN69A8PSVZQ5Z20mrpO93Pj3LKawI6QoiwcKPEWm3fsKeoLGCbnTBZuZm1AX8YxDOpKhJfrCrVs4ML59HdOd5mUqqt4xrYMOh7o_EkEWEoCyVfGoSLZn-1zfShR3MMC4DOqJm7_QJeZkYnjpM8bDBfuGrZl0W4pe563wvkTtZoktnBfpET4d6icSoFDZxLkWgVBcONJw5fR3cbptKQmzsZeO4qIeqq11UTz0lBmJ8W-9sqy6y1dh-3-yG75xyPOZjxX4sCOkc79qbpnKjI6G5jtZSUpYaP6W5u67w-TI_xMqy0ROdhAKZx7xp4ijVIKdhZyUIcOASW1xmJZYCSRoiKfZyIZFuIV_idFcfZnQO=w1043-h648-no)
 
