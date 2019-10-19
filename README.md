@@ -15,7 +15,7 @@ Then select WorldDynamics, World3 and one of the scenarios, e.g. Scenario 2.
 Click on the right‐arrow (‐>) simulate button (top row) to simulate. 
 To also simulate some other scenario, click on that one and click the simulate button.
 
-![simulate](https://lh3.googleusercontent.com/_0cFEs7shRmJcNZUC9g6pAIf1rwS46kvnp9E8_M2WWfeuKcPo6dfZ_QbSC5e14wQZPpzI0YWwv07e7kamcRA-VUZ10Bvg5JC3-UzunWKoM0KImehllHfIB89W6qGkWN5cWvjTThfOTjgmSrb9fRPwFH69rtgoPUbHaNaZ18bOK1QzQJX-BenBieKRcfFsGibiLOQr4paTa3hF5ozuZ-fiX9UrYz35B2PYnvdS2PX4I0n8Ca5v8X1x2oZDdrjLTptvLo6Deynas5deeDcuj0QvpEe5WXSft9bpDfOOWoBFEufq9xctgOnmWr1kuS1vxY0oTiqXtgxWnEsC_mFZyIh5dM1Jx-H8_D3sDIrh-NpgWvABxXLeotaWMny3Px79jdonYRMd6xxN69A8PSVZQ5Z20mrpO93Pj3LKawI6QoiwcKPEWm3fsKeoLGCbnTBZuZm1AX8YxDOpKhJfrCrVs4ML59HdOd5mUqqt4xrYMOh7o_EkEWEoCyVfGoSLZn-1zfShR3MMC4DOqJm7_QJeZkYnjpM8bDBfuGrZl0W4pe563wvkTtZoktnBfpET4d6icSoFDZxLkWgVBcONJw5fR3cbptKQmzsZeO4qIeqq11UTz0lBmJ8W-9sqy6y1dh-3-yG75xyPOZjxX4sCOkc79qbpnKjI6G5jtZSUpYaP6W5u67w-TI_xMqy0ROdhAKZx7xp4ijVIKdhZyUIcOASW1xmJZYCSRoiKfZyIZFuIV_idFcfZnQO=w1043-h648-no)
+![simulate](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/blob/master/UsersGuide/GitHub%20Images/Screenshot%20scenario%203.png)
 
 To plot, click on one or more of the variables in the right window. You can search for population by typing popul You can simulate several scenarios and plot one or more variable from each simulation in the same diagram. Below from Scenario1, Scenario2, Scenario3.
 
