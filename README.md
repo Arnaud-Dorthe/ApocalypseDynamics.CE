@@ -9,7 +9,7 @@ To know more about the projects roadmap and progress reports, click on the [Gith
 
 First of all, [download the OpenModelica version for your favorite operating system](https://www.openmodelica.org/download/download-linux).
 
-Then download the Apocalypse Dynamics package, either by [direct download](archive/master.zip) if you are a novice, or [through Git](https://github.com/Arnaud-Dorthe/ApocalypseDynamics.git) if you are an advanced user. If you are nor a novice nor a advanced user, but a average user who'd like to get his chance on Git, you may find helpful the [github-git-cheat-sheet.pdf](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/blob/master/github-git-cheat-sheet.pdf) in the root directory.
+Then download the Apocalypse Dynamics package, either by [direct download](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/archive/master.zip) if you are a novice, or [through Git](https://github.com/Arnaud-Dorthe/ApocalypseDynamics.git) if you are an advanced user. If you are nor a novice nor a advanced user, but a average user who'd like to get his chance on Git, you may find helpful the [github-git-cheat-sheet.pdf](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/blob/master/github-git-cheat-sheet.pdf) in the root directory.
 
 
 ### Simulations
