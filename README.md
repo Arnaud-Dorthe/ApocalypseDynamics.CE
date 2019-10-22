@@ -35,13 +35,16 @@ To simulate another scenario at the same time, click on that one and click the s
 
 ![simulate](UsersGuide/GitHub%20Images/Screenshot%20scenario%203.png)
 
-Go to the "Plotting" tab, click on one or more of the variables in the right window. You can search for population by typing "population". You can simulate several scenarios and plot one or more variables from each simulation in the same diagram. Here-below the plots from Scenario1, Scenario2, Scenario3:
+Go to the "Plotting" tab, click on one or more of the variables in the right window. You can search for population by typing "population". You can simulate several scenarios and plot one or more variables from each simulation in the same diagram. Here-below the worldwide population plots from Scenario1, Scenario2, Scenario3:
 
 ![Scenario1, Scenario2, Scenario3](UsersGuide/GitHub%20Images/Scenario1%2C%20Scenario2%2C%20Scenario3%20population.png)
 
-This plot is from from Scenario2, Scenario3, and Scenario6. The green one ("green growth") was the only sustainable-one, that is to say without collapse, as of 2004.
+The plots given below come from Scenario2, Scenario3, and Scenario6. The green one ("green growth") was the only sustainable-one, that is to say without population collapse, as of 2004.
 
 ![Previous sustainable scenario](UsersGuide/GitHub%20Images/Scenario2%2C%20Scenario3%2C%20Scenario6%20population.png)
+
+Now it's your turn: try to find a sustainable scenario from today !
+Happy finding !
 
 @Arnaud-Dorthe
 :innocent:
