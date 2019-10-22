@@ -26,16 +26,16 @@ Go to your package manager and select the OpenModelica meta-package. Click Insta
 
 ### Simulations
 
-Having said that, start OpenModelica connection editor (OMEdit). 
+Start OpenModelica connection editor (OMEdit). 
 In the File menu, open the Apocalypse dynamics package you have been downloading. 
 
 Then select WorldDynamics, World3 and one of the scenarios, e.g. Scenario 2. 
 Click on the right‐arrow (‐>) simulate button (top row) to simulate. 
-To also simulate some other scenario, click on that one and click the simulate button.
+To simulate another scenario at the same time, click on that one and click the simulate button.
 
 ![simulate](UsersGuide/GitHub%20Images/Screenshot%20scenario%203.png)
 
-To plot, click on one or more of the variables in the right window. You can search for population by typing popul You can simulate several scenarios and plot one or more variable from each simulation in the same diagram. Below from Scenario1, Scenario2, Scenario3.
+Go to the plot tab, click on one or more of the variables in the right window. You can search for population by typing "population". You can simulate several scenarios and plot one or more variables from each simulation in the same diagram. Below the plots from Scenario1, Scenario2, Scenario3.
 
 ![Scenario1, Scenario2, Scenario3](UsersGuide/GitHub%20Images/Scenario1%2C%20Scenario2%2C%20Scenario3%20population.png)
 
