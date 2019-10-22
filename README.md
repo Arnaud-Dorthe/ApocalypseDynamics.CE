@@ -11,14 +11,14 @@ First of all, download the Apocalypse Dynamics package, either by [direct downlo
 
 Next, you must install a Modelica running environment as well. Here is how to install the OpenModelica one:
 
-## Linux
+#### Linux
 
 Go to your package manager and select the OpenModelica meta-package. Click Install.
 
 ![Linux Package Manager](UsersGuide/GitHub%20Images/Modelica%20Package%20Manager.png)
 
 
-## Windows & OSX
+#### Windows & OSX
 
  [Download OpenModelica](https://www.openmodelica.org/download/download-linux) from the official website.
  Follow the the website's dowloading instructions.
