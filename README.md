@@ -1,15 +1,27 @@
 
 ## Short installation and simulation guide
 
-To know more about the Apocalypse Dynamics, have a look to the [Github Wiki tab](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/wiki).
+To know more about the Apocalypse Dynamics project, have a look to the [Github Wiki tab](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/wiki).
 
-To know more about the projects roadmap and progress reports, click on the [Github Projects tab](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/projects), and select a project.
+To know more about the roadmap and progress reports, click on the [Github Projects tab](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/projects), and select a project.
 
 ### Installations
 
-First of all, [download the OpenModelica version for your favorite operating system](https://www.openmodelica.org/download/download-linux).
+First of all, download the Apocalypse Dynamics package, either by [direct download](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/archive/master.zip) if you are a simple user, or [through Git](https://github.com/Arnaud-Dorthe/ApocalypseDynamics.git) if you want to contribute to the project. If the latter case, you would need a Git client on your desktop. For your conveniance, I have added a [github-git-cheat-sheet.pdf](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/blob/master/github-git-cheat-sheet.pdf) in the root directory.
 
-Then download the Apocalypse Dynamics package, either by [direct download](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/archive/master.zip) if you are a novice, or [through Git](https://github.com/Arnaud-Dorthe/ApocalypseDynamics.git) if you are an advanced user. If you are nor a novice nor a advanced user, but a average user who'd like to get his chance on Git, you may find helpful the [github-git-cheat-sheet.pdf](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/blob/master/github-git-cheat-sheet.pdf) in the root directory.
+Next, you must install a Modelica running environment as well. Here is how to install the OpenModelica one:
+
+## Linux
+
+Go to your package manager and select the OpenModelica meta-package. Click Install.
+
+![Linux Package Manager](UsersGuide/GitHub%20Images/Modelica%20Package%20Manager.png)
+
+
+## Windows & OSX
+
+ [Download OpenModelica](https://www.openmodelica.org/download/download-linux) from the official website.
+ Follow the the website's dowloading instructions.
 
 
 ### Simulations
