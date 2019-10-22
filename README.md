@@ -35,7 +35,7 @@ To simulate another scenario at the same time, click on that one and click the s
 
 ![simulate](UsersGuide/GitHub%20Images/Screenshot%20scenario%203.png)
 
-Go to the plot tab, click on one or more of the variables in the right window. You can search for population by typing "population". You can simulate several scenarios and plot one or more variables from each simulation in the same diagram. Below the plots from Scenario1, Scenario2, Scenario3.
+Go to the plot tab, click on one or more of the variables in the right window. You can search for population by typing "population". You can simulate several scenarios and plot one or more variables from each simulation in the same diagram. Here-below the plots from Scenario1, Scenario2, Scenario3:
 
 ![Scenario1, Scenario2, Scenario3](UsersGuide/GitHub%20Images/Scenario1%2C%20Scenario2%2C%20Scenario3%20population.png)
 
