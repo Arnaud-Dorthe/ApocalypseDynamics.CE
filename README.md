@@ -1,12 +1,11 @@
-## Thanks 
+## Introduction
 First of all, we would like to thank our sponsors for making this project possible. See the list of our [sponsors](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/wiki/Sponsors).
 
+To know more about the Apocalypse Dynamics documentation, click on the [Wiki](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/wiki) link.
+
+To know more about the roadmap and progress reports, click on the [Projects](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/projects) link.
 
 ## Short installation and simulation guide
-
-To know more about the Apocalypse Dynamics project, have a look to the [Github Wiki tab](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/wiki).
-
-To know more about the roadmap and progress reports, click on the [Github Projects tab](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/projects), and select a project.
 
 ### Installations
 
@@ -46,8 +45,8 @@ The plots given below come from Scenario2, Scenario3, and Scenario6. The green o
 
 ![Previous sustainable scenario](UsersGuide/GitHub%20Images/Scenario2%2C%20Scenario3%2C%20Scenario6%20population.png)
 
-Now it's your turn: try to find a sustainable scenario from today !
-Happy finding !
+Now it's your turn: try to find a future sustainable scenario !
+Good luck ! :innocent:
 
-@Arnaud-Dorthe
-:innocent:
+Apocalypse Dynamics is a trademark of Abak Consulting Gmbh.
+
