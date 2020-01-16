@@ -1,3 +1,6 @@
+## Thanks 
+First of all, we would like to thank our sponsors for making this project possible. See the list of our sponsors.
+
 
 ## Short installation and simulation guide
 
