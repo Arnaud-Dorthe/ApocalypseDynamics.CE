@@ -1,5 +1,5 @@
 ## Thanks 
-First of all, we would like to thank our sponsors for making this project possible. See the list of our sponsors.
+First of all, we would like to thank our sponsors for making this project possible. See the list of our [sponsors](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/wiki/Sponsors).
 
 
 ## Short installation and simulation guide
