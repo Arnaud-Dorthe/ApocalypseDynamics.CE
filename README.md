@@ -9,22 +9,11 @@ To know more about the roadmap and progress reports, click on the [Projects](htt
 
 ### Installations
 
-First of all, download the Apocalypse Dynamics package, either by [direct download](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/archive/master.zip) if you are a simple user, or [through Git](https://github.com/Arnaud-Dorthe/ApocalypseDynamics.git) if you want to contribute to the project. In the latter case, you would need a Git client on your desktop. For your conveniance, I have added a [github-git-cheat-sheet.pdf](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/blob/master/github-git-cheat-sheet.pdf) in the root directory.
+ First of all, you must install a Modelica developping environment.
+Download the free [OpenModelica](https://www.openmodelica.org/download/download-linux) environment from the official website.
+Follow the installation instructions for your operating system.
 
-Next, you must install a Modelica running environment as well. Here is how to install the OpenModelica one:
-
-#### Linux
-
-Go to your package manager and select the OpenModelica meta-package. Click Install.
-
-![Linux Package Manager](UsersGuide/GitHub%20Images/Modelica%20Package%20Manager.png)
-
-
-#### Windows & OSX
-
- [Download OpenModelica](https://www.openmodelica.org/download/download-linux) from the official website.
- Follow the the website's dowloading instructions.
-
+ Then download the Apocalypse Dynamics package, either by [direct download](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/archive/master.zip) if you are a simple user, or [through Git](https://github.com/Arnaud-Dorthe/ApocalypseDynamics.git) if you want to contribute to the project. In the latter case, you need a Git client on your desktop. For your conveniance, I have added a [github-git-cheat-sheet.pdf](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/blob/master/github-git-cheat-sheet.pdf) in the root directory.
 
 ### Simulations
 
