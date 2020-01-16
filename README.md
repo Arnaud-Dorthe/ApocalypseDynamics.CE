@@ -1,9 +1,9 @@
 ### Introduction
 First of all, we would like to thank our sponsors for making this project possible. See the list of our [sponsors](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/wiki/Sponsors).
 
-To know more about the Apocalypse Dynamics documentation, click on the [Wiki](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/wiki) link.
+To read the Apocalypse Dynamics documentation, click on the [Wiki](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/wiki) link.
 
-To know more about the roadmap and progress reports, click on the [Projects](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/projects) link.
+To get insights about the roadmap and progress reports, click on the [Projects](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/projects) link.
 
 ### User guide
 
