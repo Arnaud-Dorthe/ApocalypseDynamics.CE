@@ -39,4 +39,4 @@ Good luck ! :innocent:
 
 Apocalypse Dynamics is a trademark of Abak Consulting Gmbh.
 
-[Become a sponsor](https://www.patreon.com/bePatron?u=29444754)
+[Become a sponsor](https://paypal.me/ADorthe?locale.x=fr_FR)
