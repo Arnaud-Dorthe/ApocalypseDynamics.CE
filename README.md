@@ -37,6 +37,7 @@ The plots given below come from Scenario2, Scenario3, and Scenario6. The green o
 Now it's your turn: try to find a sustainable scenario for our common future !
 Good luck ! :innocent:
 
+### Copyright
 Apocalypse Dynamics is a trademark of Abak Consulting Gmbh.
 
 [Get forgiveness](https://paypal.me/ADorthe)
