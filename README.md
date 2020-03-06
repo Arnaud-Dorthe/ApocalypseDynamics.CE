@@ -35,7 +35,8 @@ The plots given below come from Scenario2, Scenario3, and Scenario6. The green o
 ![Previous sustainable scenario](UsersGuide/GitHub%20Images/Scenario2%2C%20Scenario3%2C%20Scenario6%20population.png)
 
 Now it's your turn: try to find a sustainable scenario for our common future !
-Good luck ! :innocent:
+
+May the force of the Mathematics be with you ! :innocent:
 
 ### Copyright
 Apocalypse Dynamics is a trademark of Abak Consulting Gmbh.
