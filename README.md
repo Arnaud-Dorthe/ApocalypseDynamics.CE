@@ -40,4 +40,4 @@ Good luck ! :innocent:
 ### Copyright
 Apocalypse Dynamics is a trademark of Abak Consulting Gmbh.
 
-[Recieve forgiveness](https://paypal.me/ADorthe)
+[Recieve forgiveness for your sins](https://paypal.me/ADorthe)
