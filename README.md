@@ -39,6 +39,6 @@ Now it's your turn: try to find a sustainable scenario for our common future !
 May the force of the Mathematics be with you ! :innocent:
 
 ### Copyright
-Apocalypse Dynamics is a trademark of Abak Consulting Gmbh.
+Apocalypse Dynamics is a trademark of Abak Consulting Gmbh. All rights reserved.Any copyright infringement will be prosecuted to the full extent permitted by the law and the perpetrators will be cursed.
 
-[Recieve forgiveness for your sins](https://paypal.me/ADorthe)
+[© 2015-2020 Arnaud Dorthe](https://sites.google.com/view/abak-consulting/home)
