@@ -11,9 +11,7 @@ To get insights about the roadmap and progress reports, click on the [Projects](
 
  First of all, you must install a Modelica developping environment.
 Download the free [OpenModelica](https://www.openmodelica.org/download/download-linux) environment from the official website.
-Follow the installation instructions for your operating system.
-
- Then download the Apocalypse Dynamics package, either by [direct download](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/archive/master.zip) if you are a simple user, or [through Git](https://github.com/Arnaud-Dorthe/ApocalypseDynamics.git) if you want to contribute to the project. In the latter case, you need a Git client on your desktop. For your conveniance, I have added a [github-git-cheat-sheet.pdf](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/blob/master/github-git-cheat-sheet.pdf) in the root directory.
+Follow the installation instructions for your operating system. Then download the Apocalypse Dynamics package, either by [direct download](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/archive/master.zip) if you are a simple user, or [through Git](https://github.com/Arnaud-Dorthe/ApocalypseDynamics.git) should you want to contribute to the project (See the section Contributing below).
 
 #### Simulation
 
@@ -48,8 +46,7 @@ Get a GitHub account if you don't have it already and clone the repository at wi
 In case you need them, more detailed instructions for creating pull requests are at <https://help.github.com/articles/using-pull-requests>, and a basic guide to GitHub is at <https://guides.github.com/activities/hello-world/>.  GitHub also
 provides interactive learning at <https://lab.github.com/>.
 
-It's likely that we won't merge your code right away, and we'll ask for some changes instead. Don't be discouraged! That's normal; the library is complex, and thus it might take some time to become familiar with it and to use it in an idiomatic way.
-
+For your conveniance, I have added a [github-git-cheat-sheet.pdf](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/blob/master/github-git-cheat-sheet.pdf) in the root directory.
 
 ### Copyright
 Apocalypse Dynamics is a trademark of Abak Consulting Gmbh. All rights reserved.Any copyright infringement will be prosecuted to the full extent permitted by the law and the perpetrators will be cursed.
