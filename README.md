@@ -1,5 +1,5 @@
 ### Introduction
-First of all, we would like to thank our sponsors for making this project possible. See the list of our [sponsors](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/wiki/Sponsors).
+First of all, we would like to thank our generous sponsors for making this project possible. See the list of our [sponsors](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/wiki/Sponsors).
 
 To read the Apocalypse Dynamics documentation, click on the [Wiki](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/wiki) link.
 
@@ -51,4 +51,4 @@ For your conveniance, I have added a [github-git-cheat-sheet.pdf](https://github
 ### Copyright
 Apocalypse Dynamics is a trademark of Abak Consulting Gmbh. All rights reserved.Any copyright infringement will be prosecuted to the full extent permitted by the law and the perpetrators will be cursed.
 
-[© 2015-2020 Arnaud Dorthe](https://sites.google.com/view/abak-consulting/home)
+[© 2015-2021 Arnaud Dorthe](https://sites.google.com/view/abak-consulting/home)
