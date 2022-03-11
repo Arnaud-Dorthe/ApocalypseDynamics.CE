@@ -11,12 +11,13 @@ To get insights about the roadmap and progress reports, click on the [Projects](
 
  First of all, you must install a Modelica developping environment.
 Download the free [OpenModelica](https://www.openmodelica.org/download/download-linux) environment from the official website.
-Follow the installation instructions for your operating system. Then download the Apocalypse Dynamics package, either by [direct download](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/archive/master.zip) if you are a simple user, or [through Git](https://github.com/Arnaud-Dorthe/ApocalypseDynamics.git) should you want to contribute to the project (See the section Contributing below).
+Follow the installation instructions for your operating system. Then download the Apocalypse Dynamics package, either by [direct download](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/archive/master.zip) if you are a simple user, or [through Git](https://github.com/Arnaud-Dorthe/ApocalypseDynamics.git) should you want to contribute to the project (See the section Contributing below). Extract the archive. This will create the ApocalypseDynamics directory containing the library's files.
 
 #### Simulation
 
 Start OpenModelica connection editor (OMEdit). 
-In the File menu, open the Apocalypse dynamics package you have been downloading. 
+In the File menu, click on "Open Model/library file(s)". Then in the "ApocalypseDynamics" folder, select the "Package.mo" file.
+The Apocalypse Dynamics library is loaded as you can see in the left panel "Libraries". 
 
 Then select WorldDynamics, World3 and one of the scenarios, e.g. Scenario 2. 
 Click on the right‐arrow (‐>) simulate button (top row) to simulate. 
