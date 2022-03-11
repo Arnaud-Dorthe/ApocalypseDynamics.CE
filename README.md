@@ -16,8 +16,12 @@ Follow the installation instructions for your operating system. Then download th
 #### Simulation
 
 Start OpenModelica connection editor (OMEdit). 
-In the File menu, click on "Open Model/library file(s)". Then in the "ApocalypseDynamics" folder, select the "Package.mo" file.
+In the File menu, click on "Open Model/library file(s)". 
+![open](UsersGuide/GitHub%20Images/OMedit%20-%20Load%20library.png)
+
+Then in the "ApocalypseDynamics" folder, select the "Package.mo" file.
 The Apocalypse Dynamics library is loaded as you can see in the left panel "Libraries". 
+![open](UsersGuide/GitHub%20Images/OMedit%20-%20Library%20loaded.png)
 
 Then select WorldDynamics, World3 and one of the scenarios, e.g. Scenario 2. 
 Click on the right‐arrow (‐>) simulate button (top row) to simulate. 
