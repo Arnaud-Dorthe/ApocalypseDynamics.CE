@@ -53,7 +53,4 @@ provides interactive learning at <https://lab.github.com/>.
 
 For your conveniance, I have added a [github-git-cheat-sheet.pdf](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/blob/master/github-git-cheat-sheet.pdf) in the root directory.
 
-### Copyright
-Apocalypse Dynamics is a trademark of Abak Consulting Gmbh. All rights reserved.Any copyright infringement will be prosecuted to the full extent permitted by the law and the perpetrators will be cursed.
-
 [© 2015-2022 ArDor](https://sites.google.com/view/abak-consulting/home)
