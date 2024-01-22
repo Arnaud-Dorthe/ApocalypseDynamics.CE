@@ -1,3 +1,5 @@
+SimuNRGTrans allows you to simulate the future of mankind through the digital twin of the world
+
 ### Introduction
 First of all, we would like to thank our generous sponsors for making this project possible. See the list of our [sponsors](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/wiki/Sponsors).
 
