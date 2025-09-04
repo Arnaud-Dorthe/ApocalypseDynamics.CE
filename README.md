@@ -2,8 +2,6 @@
 
 Apocalypse Dynamics allows you to simulate the future of mankind through the digital twin of the world.
 
-This project is made possible thanks to our generous [sponsors](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/wiki/Sponsors).
-
 To read the Apocalypse Dynamics documentation, click on the [Wiki](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/wiki) link.
 
 To get insights about the roadmap and progress reports, click on the [Projects](https://github.com/Arnaud-Dorthe/ApocalypseDynamics/projects) link.
